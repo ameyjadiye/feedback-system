@@ -1,3 +1,4 @@
+
 # feedback-system
 Goal is to create generic feedback collation system for gathering feedback of listed people from large crowd.
 
@@ -9,5 +10,6 @@ Goal is to create generic feedback collation system for gathering feedback of li
 ## Technology Stack
 
 * AngularJS
-* Spring REST 
+* Spring Boot
+* Bootstrap
 * Mysql
