@@ -8,10 +8,12 @@ Feedback system can be used as employee 360 feedback, students feedback, goverme
 * admin
 * candidates / organization
 * responders
+* anonymous (readonly)
 
 ## Technology Stack
 
 * AngularJS
 * Spring Boot
+* Spring REST
 * Bootstrap
 * Mysql
